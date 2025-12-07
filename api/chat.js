@@ -1,4 +1,4 @@
-import { metaai } from "../../metaai.js"
+import { metaai } from "/metaai.js"
 
 const ai = new metaai()
 
